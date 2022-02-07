@@ -1,0 +1,14 @@
+zwift-client
+python-dotenv
+requests
+ics
+Pillow
+spotipy
+feedparser
+python-dateutil
+numpy
+#export CFLAGS=-fcommon
+RPi.GPIO
+spidev
+
+#sudo apt-get install libopenjp2-7
